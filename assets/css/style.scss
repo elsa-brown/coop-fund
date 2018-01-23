@@ -1,0 +1,221 @@
+/*
+Theme Name: Coopfund
+Theme URI: 
+Author: elsa
+Author URI: 
+Description: theme for coopfund
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: custom
+Text Domain: coopfund
+*/
+
+@import "vendor/normalize";
+@import "columns";
+
+body {
+	background-color: rgb(200,200,200);
+	/*hyphens: auto;*/
+	font-size: 1rem;
+}
+
+a {
+	text-decoration: none;
+
+	&:hover {
+		text-decoration: underline;
+	}
+}
+
+article {
+	background-color: white;
+	border-radius: 1px;
+  box-shadow: 0px 4px 30px rgb(120,120,120);
+  box-sizing: border-box;
+  height: 841px;
+  margin: 0 auto;
+  margin-bottom: 15px;
+  max-width: 650px;
+  padding-top: 50px;
+  padding-left: 75px;
+  padding-right: 75px;
+}
+
+h1 {}
+
+h2 {}
+
+h3 {
+	font-size: 1rem;
+	font-weight: lighter;
+	text-transform: uppercase;
+}
+
+main {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	padding-top: 60px;
+}
+
+nav {
+	background-color: rgb(240,240,240);
+	border-bottom: 2px solid rgb(50,50,50);
+	position: fixed;
+	top: 0;
+	width: 100%;
+	white-space: nowrap;
+
+	p {
+		line-height: 1rem;
+	}
+
+	a {
+		color: black;
+
+		&:visited {
+			color: black;
+			&:hover {
+				color: purple;
+			}
+		}
+
+		&:hover {
+			text-decoration: none;
+			color: blue;
+		}
+	}
+}
+
+#nav-left {
+	float: left;
+	display: flex;
+	justify-content: space-between;
+	max-width: 70%;
+	padding-left: 25px;
+
+	p {
+		padding-right: 40px;
+	}
+}
+
+#nav-right {
+	float: right;
+	align-self: flex-end;
+	padding-right: 25px;
+}
+
+p {
+	line-height: 1.5rem;
+}
+
+ul {
+	list-style-type: none;
+}
+
+.adjust {
+	transform: translateY(-60px);
+}
+
+.adjust-large {
+	transform: translateY(-100px);
+}
+
+.bold {
+	font-weight: bolder;
+	font-family: sans-serif;
+}
+
+.image-small {
+	width: 60px;
+	height: 70px;
+	display: inline-block;
+	margin: 10px;
+	background-size: cover;
+}
+
+.italic {
+	font-style: italic;
+}
+
+.left-aligned {
+	text-align: left;
+	width: 100%;
+}
+
+.left-aligned p {
+	text-align: left;
+}
+
+.number {
+	font-size: 4rem;
+  margin: 2rem;
+  font-family: serif;
+  align-self: center;
+}
+
+.sans {
+	font-family: sans-serif;
+}
+
+.small {
+	font-size: 0.75rem;
+}
+
+.stat {
+	padding: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
+	display: flex;
+	flex-direction: column;
+}
+
+.stat-header {
+	height: 68px;
+}
+
+.title {
+	text-transform: uppercase;
+	font-weight: bold;
+	font-family: sans-serif;
+}
+
+.tab {
+	margin-left: 40px;
+}
+
+#book {
+	background-image: url('./assets/img/01-book.jpg');
+}
+
+#bucket {
+	background-image: url('assets/img/bucket.png');
+	background-size: cover;
+	margin-bottom: 40px;
+	height: 260px;
+	width: 194px;
+}
+
+
+
+#landing {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+#landing h1 {
+	margin: 0;
+	padding-bottom: 50px;
+	font-family: sans-serif;
+	font-size: 2rem;
+}
+
+#stats {
+	display: flex;
+	justify-content: space-between;
+	text-align: center;
+	margin-bottom: 30px;
+	font-family: sans-serif;
+}
+
