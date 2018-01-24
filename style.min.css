@@ -48,13 +48,13 @@ article{background-color:white;border-radius:1px;box-shadow:0 4px 30px #787878;b
 h3{font-size:1rem;font-weight:lighter;text-transform:uppercase}
 main{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;padding-top:60px}
 nav{background-color:#f0f0f0;border-bottom:2px solid #323232;position:fixed;top:0;width:100%;white-space:nowrap}
-nav p{line-height:1rem}
+nav li{line-height:1rem}
 nav a{color:black}
 nav a:visited{color:black}
 nav a:visited:hover{color:purple}
 nav a:hover{text-decoration:none;color:blue}
 #nav-left{float:left;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;max-width:70%;padding-left:25px}
-#nav-left p{padding-right:40px}
+#nav-left li{padding-right:40px}
 #nav-right{float:right;-webkit-align-self:flex-end;-ms-flex-item-align:end;align-self:flex-end;padding-right:25px}
 p{line-height:1.5rem}
 ul{list-style-type:none}
