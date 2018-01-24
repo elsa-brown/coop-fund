@@ -16,10 +16,10 @@
 	<div id="body-wrapper">
 	<nav>
 		<ul id="nav-left">
-			<a href="#home"><li class="title">COOP FUND</li></a>
+			<a href="#home"><li class="title-link">COOP FUND</li></a>
 			<!-- <li><a href="#mission-statement">Mission Statement</a></li> -->
 			<li><a href="#about">About</a></li>
-			<a href="#what-is-a-cooli"><li>What Is A Cooperative?</li></a>
+			<a href="#what-is-a-coop"><li>What Is A Cooperative?</li></a>
 			<a href="#how-it-works"><li>How It Works</li></a>
 			<a href="#definitions"><li>Definitions and Appendix</li></a>
 		</ul>
