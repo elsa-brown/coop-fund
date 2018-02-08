@@ -11,22 +11,35 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<?php wp_head(); ?>
+	<script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
 </head>
 <body>
 	<div id="body-wrapper">
 	<nav>
+		<ul id="nav-mobile">
+			<a href="#home"><li class="title-link">COOP FUND</li></a>
+			<li id="bars"><i class="fas fa-bars"></i></li>
+		</ul>
 		<ul id="nav-left">
 			<a href="#home"><li class="title-link">COOP FUND</li></a>
-			<!-- <li><a href="#mission-statement">Mission Statement</a></li> -->
 			<li><a href="#about">About</a></li>
 			<a href="#what-is-a-coop"><li>What Is A Cooperative?</li></a>
 			<a href="#how-it-works"><li>How It Works</li></a>
-			<a href="#definitions"><li>Definitions and Appendix</li></a>
-		</ul>
-		<ul id="nav-right">
-			<li>Sign Up / Log In</li>
+			<a href="#membership"><li>Join Us!</li></a>
+			<a href="#glossary"><li>Glossary</li></a>
+			<a href="#links"><li>Important Links</li></a>
 		</ul>
 	</nav>
+<!-- 	<div class="nav-mobile-expanded">
+		<ul>
+			<li><a href="#about">About</a></li>
+			<a href="#what-is-a-coop"><li>What Is A Cooperative?</li></a>
+			<a href="#how-it-works"><li>How It Works</li></a>
+			<a href="#membership"><li>Join</li></a>
+			<a href="#glossary"><li>Glossary</li></a>
+			<a href="#contact"><li>Contact Us</li></a>
+		</ul>
+	</div> -->
 	<a name="home" class="adjust"></a>
 	<!-- end navigation -->
 	<main>
