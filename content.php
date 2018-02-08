@@ -2,14 +2,14 @@
 	<article id="front-page">
 		<section>
 			<h2>COOP FUND</h2>
-			<div id="bucket"></div>
+			<a href="#bucket-anchor"><div class="bucket-img" id="bucket-anchor-return"></div></a>
 		</section>
 		<section id="stats">
 			<div class="stat col-md-4">
 				<div class="stat-header">
-					<h3>Total Members</h3>
+					<h3>Total<br />Members</h3>
 				</div>
-				<h1>3</h1>
+				<h1>5</h1>
 			</div>
 			<div class="stat col-md-4">
 				<div class="stat-header">
@@ -19,7 +19,7 @@
 			</div>
 			<div class="stat col-md-4">
 				<div class="stat-header">
-					<h3>Projects Funded</h3>
+					<h3>Projects<br />Funded</h3>
 				</div>
 				<h1>0</h1>
 			</div>
@@ -41,7 +41,7 @@
 				<li>Recognize members have individual needs and that these needs affect one's ability to participate in collective work.</li>
 				<li>Support proposals that struggle to get support elsewhere.</li>
 				<li>Resist the current forms of investor owned, corporate, for-profit business models that dominate most areas of life, and bring into question the non-profit model and its over reliance on wealthy elites.</li>
-				<li>Address inequitable wealth distribution and the causes of injustice and inequality in our community through solidarity and discussion.</li>
+				<li>Address inequitable wealth distribution and the causes of injustice and inequality in our <a href="#community">community</a> through solidarity and discussion.</li>
 				<li>Work in the field of cultural production. We don’t see this field as exceptional, or exempt from the need to develop structural change in regard to wealth distribution and democratic work practices. In fact, we know that this field is highly unregulated, exploitative, and exclusionary at all levels.</li>
 				</ul>
 			</p>
@@ -90,7 +90,14 @@
 					</tr>
 					<tr>
 						<td>social responsibility</td>
-						<td>caring for others</td>
+						<td>
+							<a 
+								class="anchor-glossary" 
+								id="caring-for-others-return" 
+								href="#caring-for-others">
+									caring for others
+							</a>
+						</td>
 					</tr>
 				</table>
 			</p>
@@ -106,7 +113,7 @@
 			<h5>Becoming a Member</h5>
 		<ul id="membership-list">
 			<li><span class="sans">Read</span> the Coop Fund <a href="#">Purpose, Principles, Participation</a> document</li>
-			<li><span class="sans">Decide</span> to become a member and sign up with our online form</li>
+			<li><span class="sans">Decide</span> to become a member and <a href="#membership">sign up</a> with our online form</li>
 			<li><span class="sans">Subscribe</span> with a minimum of $2/month. <span class="italic">You can increase your subscription if and when you have the means to do so.</span></li>
 			<li><span class="sans">Join</span> Coop Fund's discussion and voting forum on the online platform Loomio.</li>
 			<li>Have a proposal? <span class="sans">Submit</span> it on the Loomio forum!</li>
@@ -115,8 +122,8 @@
 	</article>
 	<article>
 		<section>
-			<h5 class="anchor" id="membership">Join Coop Fund</h5>
-			<p>Thank you for your interest in joining Coop Fund! Please sumbit the form below to begin your membership process.</p>
+			<h5 class="anchor top-heading" id="membership">Join Coop Fund</h5>
+			<p>Thank you for your interest in joining Coop Fund. Please sumbit the form below to begin your membership process.</p>
 			<p>Upon submitting the form, you will receive an email to set up payment for your monthly subscription amount using PayPal or direct deposit.</p>
 			<p>When payment set-up is complete, you will recieve an email with insructions for joining the Coop Fund forum on Loomio.</p>
 			<!-- Begin MailChimp Signup Form -->
@@ -165,15 +172,15 @@
 	</article>
 	<article>
 		<section>
-			<h5 class="anchor" id="glossary">Glossary<sup class="sup"> <a href="#footnote-1">[1]</a></sup></h5>
+			<h5 class="anchor top-heading" id="glossary">Glossary<sup class="sup"> <a href="#footnote-1">[1]</a></sup></h5>
 			<p>
 				<span class="term">bylaws</span> - Legal document developed by and agreed on by members, that sets out the practical, governing rules of a cooperative. <a href="#">View Coop Fund bylaws</a>
 			</p>
-			<p>
-				<span class="term">bucket</span> - A place to keep the money.
+			<p class="anchor-glossary" id="bucket-anchor">
+				<a class="term" href="bucket-anchor-return">bucket</a> - A place to keep the money.
 			</p>
-			<p>
-				<span class="term">caring for others</span> - Investing in the needs of other people.
+			<p class="anchor-glossary" id="caring-for-others">
+				<a class="term anchor-return" href="#caring-for-others-return">caring for others</a> - Investing in the needs of other people.
 			</p>
 			<p>
 				<span class="term">certificate of incorporation</span> - Legal document that sets out the purpose of the organization, legal incorporators and directors.
@@ -258,7 +265,7 @@
 			<p>
 				<span class="term">workshop</span> - Coop Fund provides education and training for members and non members.
 			</p>
-			<p><sup class="sup" id="footnote-1">[1]</sup> Some of these definitions are adapted from the International Cooperative Alliance (ICA).</p>
+			<p><sup class="sup" id="footnote-1">[1]</sup> Some of these definitions are adapted from the <a href="https://ica.coop" target="_blank">International Co-operative Alliance</a>.</p>
 			<div class="line-break"></div>
 			<p>
 				Questions? Email <a href="mailto:coopfundcooperative@gmail.com">coopfundcooperative@gmail.com</a>.
@@ -269,15 +276,19 @@
 	<article>
 		<section>
 			<h5 class="top-heading">Important Links and Documents</h5>
+			<p class="underline">Documents</p>
 			<ul>
-				<li>Coop Fund Handbook</li>
-				<li>Purpose, Principals, Participation</li>
-				<li>Certificate Of Incorporation (in progress)</li>
 				<li>Bylaws (in progress)</li>
-				<li>Loomio</li>
-				<li>Calendar of Events</li>
+				<li>Certificate Of Incorporation (in progress)</li>
+				<li>Handbook</li>
+				<li>Purpose, Principals, Participation</li>
+			</ul>
+			<p class="underline">Links</p>
+			<ul>
+				<li>Calendar</li>
+				<li>Email: <a href="mailto:coopfundcooperative@gmail.com">coopfundcooperative@gmail.com</a></li>
+				<li><a href="http://loomio.com" target="_blank">Loomio</a> forum</li>
 			</ul>
 		</section>
 	</article>
 	</main>
-</div><!-- #body-wrapper -->

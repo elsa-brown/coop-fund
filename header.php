@@ -14,14 +14,14 @@
 	<script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
 </head>
 <body>
-	<div id="body-wrapper">
+	<main>
 	<nav>
 		<ul id="nav-mobile">
 			<a href="#home"><li class="title-link">COOP FUND</li></a>
-			<li id="bars"><i class="fas fa-bars"></i></li>
+			<li><i class="fas fa-bars"></i></li>
 		</ul>
-		<ul id="nav-left">
-			<a href="#home"><li class="title-link">COOP FUND</li></a>
+		<ul id="nav-desktop">
+			<a id="home-link" href="#home"><li class="title-link">COOP FUND</li></a>
 			<li><a href="#about">About</a></li>
 			<a href="#what-is-a-coop"><li>What Is A Cooperative?</li></a>
 			<a href="#how-it-works"><li>How It Works</li></a>
@@ -30,7 +30,7 @@
 			<a href="#links"><li>Important Links</li></a>
 		</ul>
 	</nav>
-<!-- 	<div class="nav-mobile-expanded">
+	<div class="nav-mobile-expanded hide">
 		<ul>
 			<li><a href="#about">About</a></li>
 			<a href="#what-is-a-coop"><li>What Is A Cooperative?</li></a>
@@ -39,7 +39,6 @@
 			<a href="#glossary"><li>Glossary</li></a>
 			<a href="#contact"><li>Contact Us</li></a>
 		</ul>
-	</div> -->
+	</div>
 	<a name="home" class="adjust"></a>
 	<!-- end navigation -->
-	<main>
