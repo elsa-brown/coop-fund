@@ -2,7 +2,9 @@
 	<article id="front-page">
 		<section>
 			<h2>COOP FUND</h2>
-			<a href="#bucket-anchor"><div class="bucket-img" id="bucket-anchor-return"></div></a>
+			<a href="#bucket-anchor">
+				<div class="bucket-img" id="bucket-anchor-ref"></div>
+			</a>
 		</section>
 		<section id="stats">
 			<div class="stat col-md-4">
@@ -25,24 +27,56 @@
 			</div>
 		</section>
 		<section class="summary">
-			<h5 class="anchor" id="about">What is Coop Fund?</h5>
-			<p>
-				Coop Fund is an <a href="#experimental">experimental</a> cooperative funding platform that accumulates financial resources through member contributions, and redistributes small funds to members using a cooperative decision making process.
+			<h5 
+				class="anchor-100px" 
+				id="about">
+					What is Coop Fund?
+			</h5>
+			<p 
+				class="anchor-70px" 
+				id="experimental-ref">
+					<span 
+						class="anchor-70px" 
+						id="cooperative-ref">
+					</span>
+					<span 
+						class="anchor-70px" 
+						id="decision-making-ref">
+					</span>
+					<span 
+						class="anchor-70px" 
+						id="funds-ref">
+					</span>
+					Coop Fund is an <a href="#experimental">experimental</a> <a href="#cooperative">cooperative</a> <a href="#funds">funding</a> platform that accumulates financial resources through member contributions, and redistributes small funds to members using a cooperative <a href="#decision-making">decision making</a> process.
 			</p>
 		</section>
 	</article>
 	<article id="page-2">
 		<section>
-			<h5 class="top-heading anchor">Purpose</h5>
+			<h5 class="top-heading anchor-100px">Purpose</h5>
 			<p>
 			The purpose of Coop Fund is to
-			<ul id="purpose-ul">
-				<li>Generate resources and discussion with individuals and/or collectives who want to formalize their working practices.</li>
-				<li>Recognize members have individual needs and that these needs affect one's ability to participate in collective work.</li>
-				<li>Support proposals that struggle to get support elsewhere.</li>
-				<li>Resist the current forms of investor owned, corporate, for-profit business models that dominate most areas of life, and bring into question the non-profit model and its over reliance on wealthy elites.</li>
-				<li>Address inequitable wealth distribution and the causes of injustice and inequality in our <a href="#community">community</a> through solidarity and discussion.</li>
-				<li>Work in the field of cultural production. We don’t see this field as exceptional, or exempt from the need to develop structural change in regard to wealth distribution and democratic work practices. In fact, we know that this field is highly unregulated, exploitative, and exclusionary at all levels.</li>
+				<ul id="purpose-ul">
+					<li>
+						Generate resources and discussion with individuals and/or collectives who want to formalize their working practices.
+					</li>
+					<li>
+						Recognize members have individual needs and that these needs affect one's ability to participate in collective work.
+					</li>
+					<li>
+						Support proposals that struggle to get support elsewhere.
+					</li>
+					<li>
+						Resist the current forms of investor owned, corporate, for-profit business models that dominate most areas of life, and bring into question the non-profit model and its over reliance on wealthy elites.
+					</li>
+					<li 
+						class="anchor-50px" 
+						id="community-ref">
+							Address inequitable wealth distribution and the causes of injustice and inequality in our <a href="#community">community</a> through solidarity and discussion.
+					</li>
+					<li>
+						Work in the field of cultural production. We don’t see this field as exceptional, or exempt from the need to develop structural change in regard to wealth distribution and democratic work practices. In fact, we know that this field is highly unregulated, exploitative, and exclusionary at all levels.
+					</li>
 				</ul>
 			</p>
 			<h5>History and Current Format</h5>
@@ -63,12 +97,18 @@
 					In August 2017, Emma joined with Lydia Okrent and Elsa Brown in New York and together they started to work on the development of an online and in person cooperative funding platform, Coop Fund.
 			</p>
 			<div class="line-break"></div>
-			<h5 class="anchor" id="what-is-a-coop">What Is A Cooperative?</h5>
+			<h5 
+				class="anchor-100px" 
+				id="what-is-a-coop">
+					What Is A Cooperative?
+			</h5>
 			<p>
 				A cooperative is an organization in which ownership and decision making are distributed democratically between all members.
 			</p>
-			<p>
-				The <a href="https://en.wikipedia.org/wiki/International_Co-operative_Alliance">International Co-operative Alliance</a> defines a cooperative as, "an autonomous association of persons united voluntarily to meet their common economic, social, and cultural needs and aspirations through a jointly-owned and democratically-controlled enterprise."
+			<p 
+				class="anchor-30px" 
+				id="democratic-ref">
+					The <a href="https://en.wikipedia.org/wiki/International_Co-operative_Alliance">International Co-operative Alliance (ICA)</a> defines a cooperative as, <span class="italic">"an autonomous association of persons united voluntarily to meet their common economic, social, and cultural needs and aspirations through a jointly-owned and <a href="#democratic">democratically-controlled</a> enterprise."</span>
 			</p>
 			<p>
 				Cooperatives are based on values of 
@@ -79,53 +119,99 @@
 					</tr> 
 					<tr>
 						<td>democracy</td>
-						<td>equality</td>
+						<td>
+							<span 
+								class="anchor-70px" 
+								id="equality-ref">
+									<a href="#equality">
+										equality
+									</a>
+							</span>
+						</td>
 					<tr>
-						<td>equity</td>
+						<td>
+							<span 
+								class="anchor-70px" 
+								id="equity-ref">
+									<a href="#equity">
+										equity
+									</a>
+							</span>
+						</td>
 						<td>solidarity<td>
 					</tr>
 					<tr>
-						<td>honesty</td>
+						<td>
+							<span 
+								class="anchor-70px" 
+								id="honesty-ref">
+									<a href="#honesty">
+										honesty
+									</a>
+							</span>
+						</td>
 						<td>openness</td>
 					</tr>
 					<tr>
 						<td>social responsibility</td>
 						<td>
-							<a 
-								class="anchor-glossary" 
-								id="caring-for-others-return" 
-								href="#caring-for-others">
-									caring for others
-							</a>
+							<span 
+								class="anchor-70px" 
+								id="caring-for-others-ref">
+									<a href="#caring-for-others">
+										caring for others
+									</a>
+							</span>
 						</td>
 					</tr>
 				</table>
 			</p>
 		</section>
 	</article>
-	<a class="anchor-adjusted" id="how-it-works"></a>
+	<span class="anchor" id="how-it-works"></span>
 	<article>
 		<section class="container-centered">
 			<h5 class="top-heading">How Coop Fund Works</h5>
 			<div id="how-graphic"></div>
 		</section>
 		<section class="section-drop">
-			<h5>Becoming a Member</h5>
+			<h5 class="anchor-100px" 
+				id="membership">Becoming a Member</h5>
 		<ul id="membership-list">
-			<li><span class="sans">Read</span> the Coop Fund <a href="#">Purpose, Principles, Participation</a> document</li>
-			<li><span class="sans">Decide</span> to become a member and <a href="#membership">sign up</a> with our online form</li>
-			<li><span class="sans">Subscribe</span> with a minimum of $2/month. <span class="italic">You can increase your subscription if and when you have the means to do so.</span></li>
-			<li><span class="sans">Join</span> Coop Fund's discussion and voting forum on the online platform Loomio.</li>
-			<li>Have a proposal? <span class="sans">Submit</span> it on the Loomio forum!</li>
+			<li>
+				<span class="bold sans">Read</span> the Coop Fund <a href="#">Purpose, Principles, Participation</a> document
+			</li>
+			<li>
+				<span class="bold sans">Decide</span> to become a member and <a href="#membership">sign up</a> with our online form
+			</li>
+			<li>
+				<span class="bold sans">Subscribe</span> with a minimum of $2/month. <span class="italic">You can increase your subscription if and when you have the means to do so.</span>
+			</li>
+			<li>
+				<span class="bold sans">Join</span> Coop Fund's discussion and voting forum on the online platform Loomio.
+			</li>
+			<li>
+				Have a proposal? <span class="bold sans">Submit</span> it on the Loomio forum!
+			</li>
 		</ul>
 		</section>
 	</article>
 	<article>
 		<section>
-			<h5 class="anchor top-heading" id="membership">Join Coop Fund</h5>
-			<p>Thank you for your interest in joining Coop Fund. Please sumbit the form below to begin your membership process.</p>
-			<p>Upon submitting the form, you will receive an email to set up payment for your monthly subscription amount using PayPal or direct deposit.</p>
-			<p>When payment set-up is complete, you will recieve an email with insructions for joining the Coop Fund forum on Loomio.</p>
+			<h5 
+				class="anchor top-heading" 
+				id="membership">
+					Join Coop Fund
+			</h5>
+			<p>
+				Thank you for your interest in joining Coop Fund. Please sumbit the form below to begin your membership process.
+			</p>
+			<p>
+				Upon submitting the form, you will receive an email to set up payment for your monthly subscription amount using PayPal or direct deposit.
+			</p>
+			<p>
+				When payment set-up is complete, you will recieve an email with insructions for joining the Coop Fund forum on Loomio.
+			</p>
 			<!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -171,50 +257,89 @@
 		</section>
 	</article>
 	<article>
-		<section>
-			<h5 class="anchor top-heading" id="glossary">Glossary<sup class="sup"> <a href="#footnote-1">[1]</a></sup></h5>
+		<section class="glossary">
+			<h5 class="anchor-100px top-heading" id="glossary">Glossary<sup class="sup"> <a href="#footnote-1">[1]</a></sup></h5>
 			<p>
-				<span class="term">bylaws</span> - Legal document developed by and agreed on by members, that sets out the practical, governing rules of a cooperative. <a href="#">View Coop Fund bylaws</a>
+				<span class="underline">
+					bylaws</span> 
+					- Legal document developed by and agreed on by members, that sets out the practical, governing rules of a cooperative. <a class="sans" href="#">[view Coop Fund bylaws]</a>
 			</p>
-			<p class="anchor-glossary" id="bucket-anchor">
-				<a class="term" href="bucket-anchor-return">bucket</a> - A place to keep the money.
+			<p id="bucket-anchor">
+				<a class="term" href="bucket-anchor-ref">
+					bucket</a> 
+					- A place to keep the money.
 			</p>
-			<p class="anchor-glossary" id="caring-for-others">
-				<a class="term anchor-return" href="#caring-for-others-return">caring for others</a> - Investing in the needs of other people.
-			</p>
-			<p>
-				<span class="term">certificate of incorporation</span> - Legal document that sets out the purpose of the organization, legal incorporators and directors.
-			</p>
-			<p>
-				<span class="term">community</span> - People in communication.
-			</p>
-			<p>
-				<span class="term">cooperative</span> - An autonomous association of persons united voluntarily to meet their common economic, social, and cultural needs and aspirations through a jointly-owned and democratically-controlled enterprise.
+			<p id="caring-for-others">
+				<a class="term anchor-ref" href="#caring-for-others-ref">
+					caring for others</a> 
+					- Investing in the needs of other people.
 			</p>
 			<p>
-				<span class="term">decision making</span> - All members have one vote, and are encouraged to participate in decisions regarding the governance of Coop Fund and how funds are allocated.
+				<span class="term">
+					certificate of incorporation</span> 
+					- Legal document that sets out the purpose of the organization, legal incorporators and directors. <a class="sans" href="#" target="_blank">[view Coop Fund certificate of incorporation]</a>
 			</p>
-			<p>
-				<span class="term">democratic member control</span> - Members have the right to participate, to be informed, to be heard and to be involved in making decisions. Members are the source of all authority in the cooperative. “The basic unit of the co-operative is the member...This basis in human personality is one of the main features distinguishing a cooperative from firms controlled primarily in the interests of capital.” (ICA Background Paper)
+			<p id="community">
+				<a class="term" href="#community-ref">
+					community</a> 
+					- People in communication.
+			</p>
+			<p id="cooperative">
+				<a class="term" href="#cooperative-ref">
+					cooperative </a> 
+					- An autonomous association of persons united voluntarily to meet their common economic, social, and cultural needs and aspirations through a jointly-owned and democratically-controlled enterprise.
+			</p>
+			<p id="decision-making">
+				<a class="term" href="#decision-making-ref">
+					decision making</a> 
+					- All members have one vote, and are encouraged to participate in decisions regarding the governance of Coop Fund and how funds are allocated.
+			</p>
+			<p id="democratic">
+				<a class="term" href="#democratic-ref">
+					democratic member control</a> 
+					- Members have the right to participate, to be informed, to be heard and to be involved in making decisions. Members are the source of all authority in the cooperative.
+					<br />
+					<span class="italic">“The basic unit of the co-operative is the member...This basis in human personality is one of the main features distinguishing a cooperative from firms controlled primarily in the interests of capital.”</span> - ICA Background Paper
 			</p>	
-			<p>
-				<span class="term">equality</span> - Equal rights and opportunities for people to participate democratically improves the use resources and fosters mutuality, understanding and solidarity.
+			<p id="equality">
+				<a 
+					class="term" 
+					href="#equality-ref">
+						equality
+				</a> 
+						- Equal rights and opportunities for people to participate democratically improves the use resources and fosters mutuality, understanding and solidarity.
 			</p>
-			<p>
-				<span class="term">equity</span> - Fair distribution of income and power in society should be based on labor, not ownership of capital.
+			<p id="equity">
+				<a 
+					class="term"
+					href="#equity-ref">
+						equity
+				</a> 
+						- Fair distribution of income and power in society should be based on labor, not ownership of capital.
 			</p>
-			<p class="anchor-glossary" id="experimental">
-				<span class="term">experimental</span> - This is an experiment.
+			<p id="experimental">
+				<a 
+					class="term" 
+					href="#experimental-ref">
+						experimental
+				</a> 
+						- This is an experiment.
 			</p>
 			</section>
 	</article>
 	<article>
 		<section>
-			<p>
-				<span class="term">funds</span> - Money paid by members, that is kept in the Coop Fund bank account. Money paid out to members who make proposals for funds that they need.
+			<p class="anchor-70px" id="funds">
+				<a 
+					class="term"
+					href="#funds-ref">
+						funds
+				</a> 
+						- Money paid by members, that is kept in the Coop Fund bank account. Money paid out to members who make proposals for funds that they need.
 			</p>
-			<p>
-				<span class="term">honesty</span> - Transparency about how decisions are made and how things are done.
+			<p id="honesty">
+				<a class="term" href="#honesty-ref">honesty</a> 
+				- Transparency about how decisions are made and how things are done.
 			</p>
 			<p>
 				<span class="term">Loomio</span> - The online decision-making platform.
@@ -272,18 +397,17 @@
 			</p>
 		</section>
 	</article>
-	<a class="anchor-adjusted" id="links"></a>
 	<article>
 		<section>
-			<h5 class="top-heading">Important Links and Documents</h5>
-			<p class="underline">Documents</p>
+			<h5 class="anchor-100px top-heading" id="links">Important Links and Documents</h5>
+			<p class="sans underline">Documents</p>
 			<ul>
 				<li>Bylaws (in progress)</li>
 				<li>Certificate Of Incorporation (in progress)</li>
 				<li>Handbook</li>
 				<li>Purpose, Principals, Participation</li>
 			</ul>
-			<p class="underline">Links</p>
+			<p class="sans underline">Links</p>
 			<ul>
 				<li>Calendar</li>
 				<li>Email: <a href="mailto:coopfundcooperative@gmail.com">coopfundcooperative@gmail.com</a></li>
