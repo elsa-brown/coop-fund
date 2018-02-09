@@ -187,22 +187,16 @@ nav {
 	}
 }
 
-.nav {
-	float: left;
-	display: flex;
-	padding-left: 25px;
-}
-
 #nav-desktop {
 	display: none;
 	width: 0;
 
 	@media screen and (min-width: 890px) {
-		float: left;
 		display: flex;
-		justify-content: space-between;
-		max-width: 70%;
+		justify-content: flex-start;
 		padding-left: 25px;
+		padding-right: 25px;
+		width: 100%;
 
 		li {
 			padding-right: 40px;
@@ -376,6 +370,7 @@ table {
 	padding-bottom: 10px;
 	display: flex;
 	flex-direction: column;
+	width: 33%;
 
 	h1 {
 		align-self: center;
