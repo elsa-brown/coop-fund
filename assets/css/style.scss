@@ -84,7 +84,7 @@ article {
 
 body {
 	background-color: rgb(200,200,200);
-	hyphens: auto;
+	/*hyphens: auto;*/
 	font-size: 1rem;
 }
 
@@ -101,6 +101,14 @@ body {
 	background-size: cover;
 	height: 260px;
 	width: 194px;
+}
+
+#discussion-graphic {
+	background-image: url('assets/img/05-discussion.jpg');
+	background-size: cover;
+	margin: 75px auto 0 auto;
+	height: 150px;
+	width: 150px;
 }
 
 .fa-angle-down {
@@ -168,6 +176,14 @@ h5 {
 
 .hide {
 	display: none;
+}
+
+#history-graphic {
+	background-image: url('assets/img/01-book.jpg');
+	background-size: cover;
+	margin: 30px auto;
+	height: 150px;
+	width: 150px;
 }
 
 #how-graphic {

@@ -94,26 +94,31 @@
 					</li>
 				</ul>
 			</p>
-			<h5>History and Current Format</h5>
-			<p>
-				In the beginning of 2017, as part of <a href="http://artistsspace.org/exhibitions/authorization-sessions" target="_blank">Authorization Sessions</a> at <a href="http://artistsspace.org" target="_blank">Artists Space</a>, Emma Hedditch organized an eight week Cooperative Study Discussion Course with Artists Space staff members Rachel Peddersen, Harry Burke, Colleen O’Connor and Jamie Stevens. 
-			</p>
 		</section>
 	</article>
 	<article id="page-3">
 		<section>
+			<h5 class="top-heading">History and Current Format</h5>
+			<p>
+				In the beginning of 2017, as part of <a href="http://artistsspace.org/exhibitions/authorization-sessions" target="_blank">Authorization Sessions</a> at <a href="http://artistsspace.org" target="_blank">Artists Space</a>, Emma Hedditch organized an eight week Cooperative Study Discussion Course with Artists Space staff members Rachel Peddersen, Harry Burke, Colleen O’Connor and Jamie Stevens. 
+			</p>
 			<p>
 				Greer Dworman, Tess Dworman, Michelle Coffey, Richard Birkett, and Laurel Atwell participated in some of these sessions.
 			</p>
+			<div id="history-graphic"></div>
+			<div class="line-break"</div>
 			<p>
 				Following this course Emma conducted further research into cooperative organizations in Edinburgh, with <a href="http://www.rhubaba.org" target="_blank">Rhubaba Gallery</a>, and <a href="https://www.theshowroom.org" target="_blank">The Showroom</a> in London.
 			</p>
 			<p>
-					In August 2017, Emma joined with Lydia Okrent and Elsa Brown in New York and together they started to work on the development of an online and in person cooperative funding platform, Coop Fund.
+				In August 2017, Emma joined with Lydia Okrent and Elsa Brown in New York and together they started to work on the development of an online and in person cooperative funding platform, Coop Fund.
 			</p>
-			<div class="line-break"></div>
+		</section>
+	</article>
+	<article>
+		<section>
 			<h5 
-				class="anchor-100px" 
+				class=" top-heading anchor-100px" 
 				id="what-is-a-coop">
 					What Is A Cooperative?
 			</h5>
@@ -208,6 +213,7 @@
 					</tr>
 				</table>
 			</p>
+			<div id="discussion-graphic"></div>
 		</section>
 	</article>
 	<span class="anchor" id="how-it-works"></span>
@@ -349,15 +355,15 @@
 						equity</a> 
 						- Fair distribution of income and power in society should be based on labor, not ownership of capital.
 			</p>
-			<p id="experimental">
-				<a href="#experimental-ref">
-					experimental</a> 
-					- This is an experiment.
-			</p>
 			</section>
 	</article>
 	<article>
 		<section>
+			<p class="anchor-70px" id="experimental">
+				<a href="#experimental-ref">
+					experimental</a> 
+					- This is an experiment.
+			</p>
 			<p class="anchor-70px" id="funds">
 				<a href="#funds-ref">
 					funds</a> 
@@ -400,13 +406,13 @@
 			<p class="anchor-70px" id="small-funds">
 				<a href="#small-funds-ref">small funds</a> - As the project grows the amount of funds grows. Because of the nature of this project, Coop Fund may not always have a large amount of money to give out. 
 			</p>
-			<p class="anchor-70px" id="social-responsibility">
-				<a href="#social-responsibility-ref">social responsibility</a> - Consider the needs of society 
-			</p>
 			</section>
 	</article>
 	<article>
 		<section>
+			<p class="anchor-70px" id="social-responsibility">
+				<a href="#social-responsibility-ref">social responsibility</a> - Consider the needs of society 
+			</p>
 			<p class="anchor-70px" id="solidarity">
 				<a href="#solidarity-ref">solidarity</a> - A cooperative has a responsibility for the wellbeing of its members and other cooperatives.
 			</p>
