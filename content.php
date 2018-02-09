@@ -1,9 +1,10 @@
 <?php get_header(); ?>
 	<article id="front-page">
 		<section>
+			<a class="anchor-100px" id="bucket-anchor-ref"></a>
 			<h2>COOP FUND</h2>
 			<a href="#bucket-anchor">
-				<div class="bucket-img" id="bucket-anchor-ref"></div>
+				<div class="bucket-img"></div>
 			</a>
 		</section>
 		<section id="stats">
@@ -33,21 +34,29 @@
 					What is Coop Fund?
 			</h5>
 			<p 
-				class="anchor-70px" 
+				class="anchor-50px" 
 				id="experimental-ref">
 					<span 
-						class="anchor-70px" 
-						id="cooperative-ref">
+						class="anchor-50px" 
+						id="funds-ref">
 					</span>
 					<span 
-						class="anchor-70px" 
+						class="anchor-50px" 
+						id="platform-ref">
+					</span>
+					<span 
+						class="anchor-30px" 
 						id="decision-making-ref">
 					</span>
 					<span 
-						class="anchor-70px" 
-						id="funds-ref">
+						class="anchor-30px" 
+						id="member-contributions-ref">
 					</span>
-					Coop Fund is an <a href="#experimental">experimental</a> <a href="#cooperative">cooperative</a> <a href="#funds">funding</a> platform that accumulates financial resources through member contributions, and redistributes small funds to members using a cooperative <a href="#decision-making">decision making</a> process.
+					<span 
+						class="anchor-30px" 
+						id="small-funds-ref">
+					</span>
+					Coop Fund is an <a href="#experimental">experimental</a> cooperative <a href="#funds">funding</a> <a href="#platform">platform</a> that accumulates financial resources through <a href="#member-contributions">member contributions</a>, and redistributes <a href="#small-funds">small funds</a> to members using a cooperative <a href="#decision-making">decision making</a> process.
 			</p>
 		</section>
 	</article>
@@ -57,21 +66,24 @@
 			<p>
 			The purpose of Coop Fund is to
 				<ul id="purpose-ul">
+					<a class="anchor-50px" id="resources-ref"></a>
 					<li>
-						Generate resources and discussion with individuals and/or collectives who want to formalize their working practices.
+						Generate <a href="#resources">resources</a> and discussion with individuals and/or collectives who want to formalize their working practices.
 					</li>
+					<a class="anchor-50px" id="member-ref"></a>
+					<a class="anchor-50px" id="needs-ref"></a>
 					<li>
-						Recognize members have individual needs and that these needs affect one's ability to participate in collective work.
+						Recognize <a href="#member">members</a> have individual <a href="#needs">needs</a> and that these needs affect one's ability to participate in collective work.
 					</li>
+					<a class="anchor-50px" id="proposal-ref"></a>
 					<li>
-						Support proposals that struggle to get support elsewhere.
+						Support <a href="#proposal">proposals</a> that struggle to get support elsewhere.
 					</li>
 					<li>
 						Resist the current forms of investor owned, corporate, for-profit business models that dominate most areas of life, and bring into question the non-profit model and its over reliance on wealthy elites.
 					</li>
-					<li 
-						class="anchor-50px" 
-						id="community-ref">
+					<a class="anchor-30px" id="community-ref"></a>
+					<li>
 							Address inequitable wealth distribution and the causes of injustice and inequality in our <a href="#community">community</a> through solidarity and discussion.
 					</li>
 					<li>
@@ -102,30 +114,43 @@
 				id="what-is-a-coop">
 					What Is A Cooperative?
 			</h5>
-			<p>
-				A cooperative is an organization in which ownership and decision making are distributed democratically between all members.
+			<p class="anchor-50px" id="cooperative-ref">
+				A <a href="#cooperative">cooperative</a> is an organization in which ownership and decision making are distributed democratically between all members.
 			</p>
-			<p 
-				class="anchor-30px" 
-				id="democratic-ref">
-					The <a href="https://en.wikipedia.org/wiki/International_Co-operative_Alliance">International Co-operative Alliance (ICA)</a> defines a cooperative as, <span class="italic">"an autonomous association of persons united voluntarily to meet their common economic, social, and cultural needs and aspirations through a jointly-owned and <a href="#democratic">democratically-controlled</a> enterprise."</span>
+			<p class="anchor-30px" id="voluntary-and-open-ref">
+					The <a href="https://en.wikipedia.org/wiki/International_Co-operative_Alliance">International Co-operative Alliance (ICA)</a> defines a cooperative as, <span class="italic">"an autonomous association of persons united <a href="#voluntary-and-open">voluntarily</a> to meet their common economic, social, and cultural needs and aspirations through a jointly-owned and democratically-controlled enterprise."</span>
 			</p>
 			<p>
 				Cooperatives are based on values of 
 				<table>
 					<tr>
-						<td>self-help</td>
-						<td>self-responsibility</td>
+						<td>
+							<span 
+								class="anchor-70px" 
+								id="self-help-ref">
+									<a href="#self-help">self-help</a>
+							</span>
+						</td>
+						<td>
+							<span 
+								class="anchor-70px" 
+								id="self-responsibility-ref">
+								<a href="#self-responsibility">self-responsibility</a>
+						</td>
 					</tr> 
 					<tr>
-						<td>democracy</td>
+						<td>
+							<span 
+								class="anchor-70px" 
+								id="democratic-ref">
+								<a href="#democratic">democracy</a>
+							</span>
+						</td>
 						<td>
 							<span 
 								class="anchor-70px" 
 								id="equality-ref">
-									<a href="#equality">
-										equality
-									</a>
+									<a href="#equality">equality</a>
 							</span>
 						</td>
 					<tr>
@@ -133,24 +158,32 @@
 							<span 
 								class="anchor-70px" 
 								id="equity-ref">
-									<a href="#equity">
-										equity
-									</a>
+									<a href="#equity">equity</a>
 							</span>
 						</td>
-						<td>solidarity<td>
+						<td>
+							<span 
+								class="anchor-70px" 
+								id="solidarity-ref">
+								<a href="#solidarity">solidarity</a>
+							</span>
+						<td>
 					</tr>
 					<tr>
 						<td>
 							<span 
 								class="anchor-70px" 
 								id="honesty-ref">
-									<a href="#honesty">
-										honesty
-									</a>
+									<a href="#honesty">honesty</a>
 							</span>
 						</td>
-						<td>openness</td>
+						<td>
+							<span 
+								class="anchor-70px" 
+								id="openness-ref">
+									<a href="#openness">openness</a>
+								</span>
+						</td>
 					</tr>
 					<tr>
 						<td>social responsibility</td>
@@ -170,7 +203,7 @@
 	</article>
 	<span class="anchor" id="how-it-works"></span>
 	<article>
-		<section class="container-centered">
+		<section>
 			<h5 class="top-heading">How Coop Fund Works</h5>
 			<div id="how-graphic"></div>
 		</section>
@@ -187,8 +220,9 @@
 			<li>
 				<span class="bold sans">Subscribe</span> with a minimum of $2/month. <span class="italic">You can increase your subscription if and when you have the means to do so.</span>
 			</li>
+			<span class="anchor-70px" id="loomio-ref"></span>
 			<li>
-				<span class="bold sans">Join</span> Coop Fund's discussion and voting forum on the online platform Loomio.
+				<span class="bold sans">Join</span> Coop Fund's discussion and voting forum on the online platform <a href="#loomio">Loomio</a>.
 			</li>
 			<li>
 				Have a proposal? <span class="bold sans">Submit</span> it on the Loomio forum!
@@ -258,14 +292,15 @@
 	</article>
 	<article>
 		<section class="glossary">
-			<h5 class="anchor-100px top-heading" id="glossary">Glossary<sup class="sup"> <a href="#footnote-1">[1]</a></sup></h5>
+			<span class="anchor-70px" id="footnote-1-ref">
+			<h5 class="anchor-100px top-heading" id="glossary">Glossary of Cooperative Terms<sup class="sup"> <a href="#footnote-1">[1]</a></sup></h5>
 			<p>
 				<span class="underline">
 					bylaws</span> 
 					- Legal document developed by and agreed on by members, that sets out the practical, governing rules of a cooperative. <a class="sans" href="#">[view Coop Fund bylaws]</a>
 			</p>
 			<p id="bucket-anchor">
-				<a class="term" href="bucket-anchor-ref">
+				<a href="#bucket-anchor-ref">
 					bucket</a> 
 					- A place to keep the money.
 			</p>
@@ -275,122 +310,113 @@
 					- Investing in the needs of other people.
 			</p>
 			<p>
-				<span class="term">
+				<span class="underline">
 					certificate of incorporation</span> 
 					- Legal document that sets out the purpose of the organization, legal incorporators and directors. <a class="sans" href="#" target="_blank">[view Coop Fund certificate of incorporation]</a>
 			</p>
 			<p id="community">
-				<a class="term" href="#community-ref">
+				<a href="#community-ref">
 					community</a> 
 					- People in communication.
 			</p>
 			<p id="cooperative">
-				<a class="term" href="#cooperative-ref">
-					cooperative </a> 
+				<a href="#cooperative-ref">
+					cooperative</a> 
 					- An autonomous association of persons united voluntarily to meet their common economic, social, and cultural needs and aspirations through a jointly-owned and democratically-controlled enterprise.
 			</p>
+			<a id="voting-ref"></a>
 			<p id="decision-making">
-				<a class="term" href="#decision-making-ref">
+				<a href="#decision-making-ref">
 					decision making</a> 
-					- All members have one vote, and are encouraged to participate in decisions regarding the governance of Coop Fund and how funds are allocated.
+					- All members have one <a href="#voting">vote</a>, and are encouraged to participate in decisions regarding the governance of Coop Fund and how funds are allocated.
 			</p>
 			<p id="democratic">
-				<a class="term" href="#democratic-ref">
+				<a href="#democratic-ref">
 					democratic member control</a> 
 					- Members have the right to participate, to be informed, to be heard and to be involved in making decisions. Members are the source of all authority in the cooperative.
 					<br />
-					<span class="italic">“The basic unit of the co-operative is the member...This basis in human personality is one of the main features distinguishing a cooperative from firms controlled primarily in the interests of capital.”</span> - ICA Background Paper
+					<span class="italic">“The basic unit of the co-operative is the member...This basis in human personality is one of the main features distinguishing a cooperative from firms controlled primarily in the interests of capital.”</span> - <a href="https://ica.coop" target="_blank">ICA</a> Background Paper
 			</p>	
 			<p id="equality">
-				<a 
-					class="term" 
-					href="#equality-ref">
-						equality
-				</a> 
+				<a href="#equality-ref">
+						equality</a> 
 						- Equal rights and opportunities for people to participate democratically improves the use resources and fosters mutuality, understanding and solidarity.
 			</p>
 			<p id="equity">
 				<a 
 					class="term"
 					href="#equity-ref">
-						equity
-				</a> 
+						equity</a> 
 						- Fair distribution of income and power in society should be based on labor, not ownership of capital.
 			</p>
 			<p id="experimental">
-				<a 
-					class="term" 
-					href="#experimental-ref">
-						experimental
-				</a> 
-						- This is an experiment.
+				<a href="#experimental-ref">
+					experimental</a> 
+					- This is an experiment.
 			</p>
 			</section>
 	</article>
 	<article>
 		<section>
 			<p class="anchor-70px" id="funds">
-				<a 
-					class="term"
-					href="#funds-ref">
-						funds
-				</a> 
-						- Money paid by members, that is kept in the Coop Fund bank account. Money paid out to members who make proposals for funds that they need.
+				<a href="#funds-ref">
+					funds</a> 
+					- Money paid by members, that is kept in the Coop Fund bank account. Money paid out to members who make proposals for funds that they need.
 			</p>
-			<p id="honesty">
-				<a class="term" href="#honesty-ref">honesty</a> 
+			<p class="anchor-70px" id="honesty">
+				<a href="#honesty-ref">honesty</a> 
 				- Transparency about how decisions are made and how things are done.
 			</p>
-			<p>
-				<span class="term">Loomio</span> - The online decision-making platform.
+			<p class="anchor-70px" id="loomio">
+				<a href="#loomio-ref">Loomio</a> - The online decision-making platform.
 			</p>
-			<p>
-				<span class="term">member</span> - Individuals or organizations who voluntarily accept the terms of membership, subscribe to Coop Fund, and who can apply for funds.
+			<p class="anchor-70px" id="member">
+				<a href="#member-ref">member</a> - Individuals or organizations who voluntarily accept the terms of membership, subscribe to Coop Fund, and who can apply for funds.
 			</p>
-			<p>
-				<span class="term">member contributions</span> - The money members pay into Coop Fund.
+			<p class="anchor-70px" id="member-contributions">
+				<a href="#member-contributions-ref">member contributions</a> - The money members pay into Coop Fund.
 			</p>
-			<p>
-				<span class="term">needs</span> - Something that is required. In the case of Coop Fund members are asked to think about what they need, and if Coop Fund could be a structure that supports part of those needs.
+			<p class="anchor-70px" id="needs">
+				<a href="#needs-ref">needs</a> - Something that is required. In the case of Coop Fund members are asked to think about what they need, and if Coop Fund could be a structure that supports part of those needs.
 			</p>
-			<p>
-				<span class="term">openness</span> - Willingness to listen and revise.
+			<p class="anchor-70px" id="openness">
+				<a href="#openness-ref">openness</a> - Willingness to listen and revise.
 			</p>
-			<p>
-				<span class="term">platform</span> - A space for individuals to conduct collaborative work.
+			<p class="anchor-70px" id="platform">
+				<a href="#platform-ref">platform</a> - A space for individuals to conduct collaborative work.
 			</p>
-			<p>
-				<span class="term">proposal</span> - Members make Proposals that are requests for funding. A Proposal can be for funds that will help with individual needs and or to further mutuality with others or to develop cooperation in work and life.
+			<p class="anchor-70px" id="proposal">
+				<a href="#proposal-ref">proposal</a> - Members make Proposals that are requests for funding. A Proposal can be for funds that will help with individual needs and or to further mutuality with others or to develop cooperation in work and life.
 			</p>
-			<p>
-				<span class="term">resources</span> - Funds, conversation, community.
+			<p class="anchor-70px" id="resources">
+				<a href="#resources-ref">resources</a> - Funds, conversation, community.
 			</p>
-			<p>
-				<span class="term">self-help</span> - People are able to improve their circumstances through joint action which can be more powerful than individual effort.
+			<p class="anchor-70px" id="self-help">
+				<a href="#self-help-ref">self-help</a> - People are able to improve their circumstances through joint action which can be more powerful than individual effort.
 			</p>
-			<p>
-				<span class="term">self-responsibility</span> - Members are accountable.
+			<p class="anchor-70px" id="self-responsibility">
+				<a href="#self-responsibility-ref">self-responsibility</a> - Members are accountable.
 			</p>
-			<p>
-				<span class="term">small funds</span> - As the project grows the amount of funds grows. Because of the nature of this project, Coop Fund may not always have a large amount of money to give out. 
+			<p class="anchor-70px" id="small-funds">
+				<a href="#small-funds-ref">small funds</a> - As the project grows the amount of funds grows. Because of the nature of this project, Coop Fund may not always have a large amount of money to give out. 
 			</p>
 			</section>
 	</article>
 	<article>
 		<section>
-			<p>
-				<span class="term">solidarity</span> - A cooperative has a responsibility for the wellbeing of its members and other cooperatives.
+			<p class="anchor-70px" id="solidarity">
+				<a href="#solidarity-ref">solidarity</a> - A cooperative has a responsibility for the wellbeing of its members and other cooperatives.
 			</p>
-			<p>
-				<span class="term">voluntary and open membership</span> - Coop Fund is a voluntary organization, open to all persons willing to accept the responsibilities of membership without gender, social, racial, political or religious discrimination.
+			<p class="anchor-70px" id="voluntary-and-open">
+				<a href="#voluntary-and-open-ref">voluntary and open membership</a> - Coop Fund is a voluntary organization, open to all persons willing to accept the responsibilities of membership without gender, social, racial, political or religious discrimination.
 			</p>
-			<p>
-				<span class="term">voting</span> - Members make their decisions based on whether a proposal is in line with the mission and purpose of Coop Fund. 
+			<p class="anchor-70px" id="voting">
+				<a href="#voting-ref">voting</a> - Members make their decisions based on whether a proposal is in line with the mission and purpose of Coop Fund. 
 			</p>
-			<p>
-				<span class="term">workshop</span> - Coop Fund provides education and training for members and non members.
+			<p class="anchor-70px" id="workshop">
+				<span class="underline">workshop</span> - Coop Fund provides education and training for members and non members.
 			</p>
-			<p><sup class="sup" id="footnote-1">[1]</sup> Some of these definitions are adapted from the <a href="https://ica.coop" target="_blank">International Co-operative Alliance</a>.</p>
+			<p><a href="#footnote-1-ref"><sup class="sup anchor-70px" id="footnote-1">[1]</sup></a> Some of these definitions are adapted from the <a href="https://ica.coop" target="_blank">International Co-operative Alliance</a>.</p>
 			<div class="line-break"></div>
 			<p>
 				Questions? Email <a href="mailto:coopfundcooperative@gmail.com">coopfundcooperative@gmail.com</a>.
@@ -399,7 +425,7 @@
 	</article>
 	<article>
 		<section>
-			<h5 class="anchor-100px top-heading" id="links">Important Links and Documents</h5>
+			<h5 class="anchor-100px top-heading" id="links">Important Documents and Links</h5>
 			<p class="sans underline">Documents</p>
 			<ul>
 				<li>Bylaws (in progress)</li>

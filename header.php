@@ -18,7 +18,7 @@
 	<nav>
 		<ul id="nav-mobile">
 			<a href="#home"><li class="title-link">COOP FUND</li></a>
-			<li><i class="fas fa-bars"></i></li>
+			<li id="menu"><span class="sans">Menu</span><i class="fas fa-angle-down"></i></li>
 		</ul>
 		<ul id="nav-desktop">
 			<a id="home-link" href="#home"><li class="title-link">COOP FUND</li></a>
@@ -35,9 +35,9 @@
 			<li><a href="#about">About</a></li>
 			<a href="#what-is-a-coop"><li>What Is A Cooperative?</li></a>
 			<a href="#how-it-works"><li>How It Works</li></a>
-			<a href="#membership"><li>Join</li></a>
+			<a href="#membership"><li>Join Us!</li></a>
 			<a href="#glossary"><li>Glossary</li></a>
-			<a href="#contact"><li>Contact Us</li></a>
+			<a href="#links"><li>Important Links</li></a>
 		</ul>
 	</div>
 	<a name="home" class="adjust"></a>
