@@ -407,11 +407,17 @@ table {
 }
 
 #how-graphic {
-	background-image: url('assets/img/how-it-works-mobile.jpg');
+	background-image: url('assets/img/how-it-works-xs.jpg');
 	background-size: cover;
 	margin: 50px auto;
-	height: 340px;
-	width: 340px;
+	height: 280px;
+	width: 280px;
+
+	@media screen and (min-width: 400px) {
+		background-image: url('assets/img/how-it-works-sm.jpg');
+		height: 340px;
+		width: 340px;
+	}
 	
 	@media screen and (min-width: 515px) {
 		background-image: url('assets/img/how-it-works-md.jpg');

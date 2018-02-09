@@ -22,7 +22,7 @@
 	<nav>
 		<ul id="nav-mobile">
 			<a href="#home"><li class="title-link">COOP FUND</li></a>
-			<a href="#membership"><li>Join</li></a>
+			<a href="#membership"><li>Join!</li></a>
 			<a href="#glossary"><li>Glossary</li></a>
 			<a href="#links"><li>Links</li></a>
 			<!-- <li id="menu"><span class="sans">Menu</span><i class="fas fa-angle-down"></i></li> -->
@@ -31,7 +31,7 @@
 			<a href="#home"><li class="title-link">COOP FUND</li></a>
 			<li><a href="#what-is-a-coop">What Is A Cooperative?</a></li>
 			<li><a href="#how-it-works">How It Works</a></li>
-			<a href="#membership"><li>Join</li></a>
+			<a href="#membership"><li>Join!</li></a>
 			<a href="#glossary"><li>Glossary</li></a>
 			<a href="#links"><li>Links</li></a>
 		</ul>
@@ -40,7 +40,7 @@
 			<li><a href="#about">About</a></li>
 			<a href="#what-is-a-coop"><li>What Is A Cooperative?</li></a>
 			<a href="#how-it-works"><li>How It Works</li></a>
-			<a href="#membership"><li>Join Us!</li></a>
+			<a href="#membership"><li>Join!</li></a>
 			<a href="#glossary"><li>Glossary</li></a>
 			<a href="#links"><li>Important Links</li></a>
 		</ul>
@@ -50,7 +50,7 @@
 			<li><a href="#about">About</a></li>
 			<a href="#what-is-a-coop"><li>What Is A Cooperative?</li></a>
 			<a href="#how-it-works"><li>How It Works</li></a>
-			<a href="#membership"><li>Join Us!</li></a>
+			<a href="#membership"><li>Join!</li></a>
 			<a href="#glossary"><li>Glossary</li></a>
 			<a href="#links"><li>Important Links</li></a>
 		</ul>
