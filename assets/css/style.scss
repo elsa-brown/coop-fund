@@ -187,6 +187,66 @@ nav {
 	}
 }
 
+.nav {
+	float: left;
+	display: flex;
+	padding-left: 25px;
+}
+
+#nav-desktop {
+	display: none;
+	width: 0;
+
+	@media screen and (min-width: 890px) {
+		float: left;
+		display: flex;
+		justify-content: space-between;
+		max-width: 70%;
+		padding-left: 25px;
+
+		li {
+			padding-right: 40px;
+		}
+	}
+}
+
+#nav-mobile {
+	display: flex;
+	justify-content: flex-start;
+	padding-left: 25px;
+	padding-right: 25px;
+
+	li {
+		padding-right: 30px;
+	}
+
+	@media screen and (min-width: 720px) {
+		display: none;
+		height: 0;
+	}
+}
+
+#nav-tablet {
+	display: none;
+	height: 0;
+
+	@media screen and (min-width: 720px) {
+		display: flex;
+		justify-content: flex-start;
+		padding-left: 25px;
+		padding-right: 25px;
+
+		li {
+			padding-right: 40px;
+		}
+	}
+
+	@media screen and (min-width: 890px) {
+		display: none;
+		height: 0;
+	}
+}
+
 #membership-list {
 	list-style: circle;
 	li {
@@ -235,46 +295,9 @@ nav {
 
 }
 
-/*mobile 830*/
-
-.nav {
-	float: left;
-	display: flex;
-	padding-left: 25px;
-}
-
-#nav-mobile {
-	display: flex;
-	justify-content: space-between;
-	padding-left: 25px;
-	padding-right: 25px;
-
-	@media screen and (min-width: 890px) {
-		display: none;
-		height: 0;
-	}
-}
-
 .fa-angle-down {
 	vertical-align: sub;
   padding-left: 10px;
-}
-
-#nav-desktop {
-	display: none;
-	width: 0;
-
-	@media screen and (min-width: 890px) {
-		float: left;
-		display: flex;
-		justify-content: space-between;
-		max-width: 70%;
-		padding-left: 25px;
-
-		li {
-			padding-right: 40px;
-		}
-	}
 }
 
 .line-break {
