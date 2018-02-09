@@ -186,7 +186,13 @@
 						</td>
 					</tr>
 					<tr>
-						<td>social responsibility</td>
+						<td>
+							<span 
+								class="anchor-70px" 
+								id="social-responsibility-ref">
+									<a href="#social-responsibility">social responsibility</a>
+								</span>
+						</td>
 						<td>
 							<span 
 								class="anchor-70px" 
@@ -246,46 +252,37 @@
 			<p>
 				When payment set-up is complete, you will recieve an email with insructions for joining the Coop Fund forum on Loomio.
 			</p>
-			<!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
+<!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup">
 <form action="https://coopfund.us17.list-manage.com/subscribe/post?u=1a766887b6164ccef4a542f45&amp;id=75787ffc6d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Become a Coop Fund Member</h2>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+	<h2>Coop Fund Membership Form</h2>
 <div class="mc-field-group">
 	<label for="mce-FNAME">First Name </label>
-	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+	<input type="text" value="" name="FNAME" class="required" id="mce-FNAME">
 </div>
 <div class="mc-field-group">
 	<label for="mce-LNAME">Last Name </label>
-	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+	<input type="text" value="" name="LNAME" class="required" id="mce-LNAME">
 </div>
 <div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-</label>
+	<label for="mce-EMAIL">Email Address </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
-<div class="mc-field-group">
-	<label for="mce-MMERGE3">Monthly Subscription Amount  <span class="asterisk">*</span>
-</label>
-	<input type="text" value="" name="MMERGE3" class="required" id="mce-MMERGE3">
+<div class="mc-field-group size1of2">
+	<label for="mce-MMERGE3">Monthly Subscription Amount </label>
+	<input type="number" name="MMERGE3" class="required" value="" id="mce-MMERGE3">
 </div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
 	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_1a766887b6164ccef4a542f45_75787ffc6d" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    <div class="clear"><input type="submit" value="Submit" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
 </form>
 </div>
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[0]='EMAIL';ftypes[0]='email';fnames[3]='MMERGE3';ftypes[3]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[0]='EMAIL';ftypes[0]='email';fnames[3]='MMERGE3';ftypes[3]='number';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
 <p>Questions? Email <a href="mailto:coopfundcooperative@gmail.com">coopfundcooperative@gmail.com</a>.</p>
 		</section>
@@ -309,7 +306,7 @@
 					caring for others</a> 
 					- Investing in the needs of other people.
 			</p>
-			<p>
+			<p id="certificate">
 				<span class="underline">
 					certificate of incorporation</span> 
 					- Legal document that sets out the purpose of the organization, legal incorporators and directors. <a class="sans" href="#" target="_blank">[view Coop Fund certificate of incorporation]</a>
@@ -399,6 +396,9 @@
 			</p>
 			<p class="anchor-70px" id="small-funds">
 				<a href="#small-funds-ref">small funds</a> - As the project grows the amount of funds grows. Because of the nature of this project, Coop Fund may not always have a large amount of money to give out. 
+			</p>
+			<p class="anchor-70px" id="social-responsibility">
+				<a href="#social-responsibility-ref">social responsibility</a> - Consider the needs of society 
 			</p>
 			</section>
 	</article>
