@@ -12,13 +12,13 @@
 				<div class="stat-header">
 					<h3>Total<br />Members</h3>
 				</div>
-				<h1>5</h1>
+				<h1>6</h1>
 			</div>
 			<div class="stat col-md-4">
 				<div class="stat-header">
 					<h3>Fund<br/>Balance</h3>
 				</div>
-				<h1>$0</h1>
+				<h1>$548</h1>
 			</div>
 			<div class="stat col-md-4">
 				<div class="stat-header">
@@ -77,23 +77,26 @@
 					</li>
 					<a class="anchor-50px" id="proposal-ref"></a>
 					<li>
-						Support <a href="#proposal">proposals</a> that struggle to get support elsewhere.
+						Support <a href="#proposal">proposals</a> that struggle to get support elsewhere, either because it's a project or group that is not formally constituted, because of the political content of the proposal, or because the protocols of the funding process are exclusionary.
 					</li>
 					<li>
-						Resist the current forms of investor owned, corporate, for-profit business models that dominate most areas of life, and bring into question the non-profit model and its over reliance on wealthy elites.
+						Resist the current forms of investor-owned, corporate, for-profit business models that dominate most areas of life, and bring into question the non-profit model and its over-reliance on wealthy elites.
 					</li>
 					<a class="anchor-30px" id="community-ref"></a>
 					<li>
 							Address inequitable wealth distribution and the causes of injustice and inequality in our <a href="#community">community</a> through solidarity and discussion.
 					</li>
 					<li>
-						Work in the field of cultural production. We don’t see this field as exceptional, or exempt from the need to develop structural change in regard to wealth distribution and democratic work practices. In fact, we know that this field is highly unregulated, exploitative, and exclusionary at all levels.
+						Work in the field of cultural production. We don’t see this field as exceptional, or exempt from the need to develop ideas for structural change in regards to wealth distribution and democratic work practices. In fact, we know that this field is highly unregulated, exploitative and exclusionary at all levels.
+					</li>
+					<li>
+						Show solidarity with historical and contemporary anticapitalist struggles, and acknowledge how these struggles have also tried to defend against the violence of white supremacy, heterosexism, ableism, gender binares and environmental destruction.
 					</li>
 				</ul>
 			</p>
 			<h5>History and Current Format</h5>
 			<p>
-				In the beginning of 2017, as part of <a href="http://artistsspace.org/exhibitions/authorization-sessions" target="_blank">Authorization Sessions</a> at Artists Space, Emma Hedditch organized an eight week Cooperative Study Discussion Course with Artists Space staff members Rachel Peddersen, Harry Burke, Colleen O’Connor and Jamie Stevens. 
+				In the beginning of 2017, as part of <a href="http://artistsspace.org/exhibitions/authorization-sessions" target="_blank">Authorization Sessions</a> at <a href="http://artistsspace.org" target="_blank">Artists Space</a>, Emma Hedditch organized an eight week Cooperative Study Discussion Course with Artists Space staff members Rachel Peddersen, Harry Burke, Colleen O’Connor and Jamie Stevens. 
 			</p>
 		</section>
 	</article>
@@ -291,25 +294,25 @@
 		<section class="glossary">
 			<span class="anchor-70px" id="footnote-1-ref">
 			<h5 class="anchor-100px top-heading" id="glossary">Glossary of Cooperative Terms<sup class="sup"> <a href="#footnote-1">[1]</a></sup></h5>
-			<p>
-				<span class="underline">
-					bylaws</span> 
-					- Legal document developed by and agreed on by members, that sets out the practical, governing rules of a cooperative. <a class="sans" href="#">[view Coop Fund bylaws]</a>
-			</p>
 			<p id="bucket-anchor">
 				<a href="#bucket-anchor-ref">
 					bucket</a> 
 					- A place to keep the money.
+			</p>
+			<p>
+				<a class="underline" href="#view-bylaws">
+					bylaws</a> 
+					- Legal document developed by and agreed on by members, that sets out the practical, governing rules of a cooperative. <a class="sans" href="https://docs.google.com/document/d/1xsepvSoyq7V3hrP3quU4daZq9o_QQo7RlnNAKeIGJyY/edit?usp=sharing" target="_blank">[view Coop Fund bylaws]</a>
 			</p>
 			<p id="caring-for-others">
 				<a class="term anchor-ref" href="#caring-for-others-ref">
 					caring for others</a> 
 					- Investing in the needs of other people.
 			</p>
-			<p id="certificate">
-				<span class="underline">
-					certificate of incorporation</span> 
-					- Legal document that sets out the purpose of the organization, legal incorporators and directors. <a class="sans" href="#" target="_blank">[view Coop Fund certificate of incorporation]</a>
+			<p>
+				<a class="underline" href="#view-certificate">
+					certificate of incorporation</a> 
+					- Legal document that sets out the purpose of the organization, legal incorporators and directors. <a class="sans" href="https://drive.google.com/file/d/1Jtp55GsLWhuGnFeJLDHohS2xG9r1I_k_/view?usp=sharing" target="_blank">[view Coop Fund certificate of incorporation]</a>
 			</p>
 			<p id="community">
 				<a href="#community-ref">
@@ -414,9 +417,14 @@
 				<a href="#voting-ref">voting</a> - Members make their decisions based on whether a proposal is in line with the mission and purpose of Coop Fund. 
 			</p>
 			<p class="anchor-70px" id="workshop">
-				<span class="underline">workshop</span> - Coop Fund provides education and training for members and non members.
+				<span class="underline">workshop</span> - Coop Fund provides education and training for members and non members. <a href="http://artistsspace.org/programs/coop-fund-workshops" target="_blank">See dates for upcoming workshops.</a>
 			</p>
-			<p><a href="#footnote-1-ref"><sup class="sup anchor-70px" id="footnote-1">[1]</sup></a> Some of these definitions are adapted from the <a href="https://ica.coop" target="_blank">International Co-operative Alliance</a>.</p>
+			<div class="line-break"></div>
+			<div class="line-break"></div>
+			<div class="line-break"></div>
+			<div class="line-break"></div>
+			<div class="line-break"></div>
+			<p><sup class="sup anchor-70px" id="footnote-1"><a href="#footnote-1-ref">[1]</a></sup>Some of these definitions are adapted from the <a href="https://ica.coop" target="_blank">International Co-operative Alliance</a>.</p>
 			<div class="line-break"></div>
 			<p>
 				Questions? Email <a href="mailto:coopfundcooperative@gmail.com">coopfundcooperative@gmail.com</a>.
@@ -427,17 +435,19 @@
 		<section>
 			<h5 class="anchor-100px top-heading" id="links">Important Documents and Links</h5>
 			<p class="sans underline">Documents</p>
+			<span class="anchor-50px" id="view-bylaws"</span>
+			<span class="anchor-30px" id="view-certificate"</span>
 			<ul>
-				<li>Bylaws (in progress)</li>
-				<li>Certificate Of Incorporation (in progress)</li>
-				<li>Handbook</li>
-				<li>Purpose, Principals, Participation</li>
+				<li><a href="https://docs.google.com/document/d/1xsepvSoyq7V3hrP3quU4daZq9o_QQo7RlnNAKeIGJyY/edit?usp=sharing" target="_blank">Bylaws</a> (in progress)</li>
+				<li><a href="https://drive.google.com/file/d/1Jtp55GsLWhuGnFeJLDHohS2xG9r1I_k_/view?usp=sharing" target="_blank">Certificate Of Incorporation</a> (in progress)</li>
+				<li><a href="https://docs.google.com/document/d/1ZlUkAQH0qgnUQgNtkIXYAJt0tVJGmtDwlZd419XpNEE/edit?usp=sharing" target="_blank">Handbook</a></li>
+				<li><a href="https://drive.google.com/file/d/10aJHAzjvFs4rSVPdu8U6fQgeb0ONCTjp/view?usp=sharing" target="_blank">Purpose, Principals, Participation</a></li>
 			</ul>
 			<p class="sans underline">Links</p>
 			<ul>
-				<li>Calendar</li>
 				<li>Email: <a href="mailto:coopfundcooperative@gmail.com">coopfundcooperative@gmail.com</a></li>
 				<li><a href="http://loomio.com" target="_blank">Loomio</a> forum</li>
+				<li>Information on <a href="http://artistsspace.org/programs/coop-fund-workshops">upcoming workshops</a> at Artists Space (Feb/Mar 2018)
 			</ul>
 		</section>
 	</article>
